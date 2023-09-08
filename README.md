@@ -19,16 +19,16 @@ Currently, the following language packs are complete for latest version of Hex E
 * German
 * French
 * Italian
+* Polish
 * Portuguese
 * Russian
 * Ukrainian
+* Simplified Chinese
 * Korean
 
 And the following language packs are complete for Hex Editor Neo 5.x or 6.x:
 
 * Danish
-* Simplified Chinese
-* Polish
 * Indonesian
 
 ## Manually Building Language Packs
@@ -80,8 +80,15 @@ We would like to thank the following persons for their contributions to localiza
    * Nylsinho Santos
    * Wenes Gomes Aquino
 
+* Polish
+   * Fresta
+
 * Ukrainian
    * Олексій Храпач
 
 * Korean
    * VenusGirl (비너스걸)
+
+* Simplified Chinese
+   * fairycn
+   * chyanbo
